@@ -36,8 +36,8 @@ def get_data(Agatha_Christie,isbn,value):
     book = book[mask]
     return (book.to_json())
 
-@app.route('/data/get/ger/<Agatha_Christie>/<language>/<value>', methods=['GET']) 
-def get_data_ger(Agatha_Christie,language,value):
+@app.route('/data/get/lang/<Agatha_Christie>/<language>/<value>', methods=['GET']) 
+def get_data_lang(Agatha_Christie,language,value):
     name = value
     authr = pd.read_csv('data/' + str('book_author.csv'))
     language = authr['language_code'] == name
