@@ -1,4 +1,4 @@
-# capstone-api-amin
+# Capstone-API-amin
 
 API ini di buat sebagai project akhir dari tim Algoritma selama 1 bulan mengikuti kelas Data Analytic Specialization. DW dilakukan di pandas dan dalam pembuatan API menggunakan Flask dengan IDE Vs Code
 
