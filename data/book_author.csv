@@ -1,0 +1,70 @@
+bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,ratings_count,text_reviews_count
+16297,Cards on the Table (Hercule Poirot  #15),Agatha Christie,3.9,0425205959,9780425205952,eng,324,23561,936
+16298,A Murder Is Announced (Miss Marple  #5),Agatha Christie,4.0,1579126294,9781579126292,eng,288,31050,1097
+16299,And Then There Were None,Agatha Christie,4.2,0312330871,9780312330873,eng,264,558832,16793
+16300,Sleeping Murder (Miss Marple #13),Agatha Christie,3.9,0002317850,9780002317856,eng,242,18550,811
+16303,The Hollow (Hercule Poirot  #26),Agatha Christie,3.8,0007121024,9780007121021,eng,384,13022,606
+16304,Murder on the Orient Express (Hercule Poirot  #10),Agatha Christie,4.2,0425200450,9780425200452,eng,322,144452,5688
+16305,Evil Under the Sun (Hercule Poirot  #24),Agatha Christie,4.0,1579126286,9781579126285,eng,220,34030,884
+16306,Miss Marple: The Complete Short Stories (Miss Marple #15),Agatha Christie,4.2,0006499627,9780006499626,eng,359,6235,257
+16307,Hallowe'en Party (Hercule Poirot  #39),Agatha Christie,3.7,0007120680,9780007120680,eng,336,18820,1059
+16308,Taken at the Flood (Hercule Poirot  #28),Agatha Christie,3.7,0007121016,9780007121014,eng,352,8852,457
+16314,4.50 From Paddington (Miss Marple  #8),Agatha Christie,4.0,0007191014,9780007191017,eng,352,41,3
+16315,Crooked House,Agatha Christie,4.0,031298166X,9780312981662,eng,276,22176,1238
+16316,The Big Four (Hercule Poirot  #5),Agatha Christie,3.6,0007120818,9780007120819,eng,272,22155,1244
+16319,The Body in the Library (Miss Marple  #3),Agatha Christie,3.8,157912626X,9781579126261,eng,191,43669,1527
+16320,Witness for the Prosecution and Selected Plays,Agatha Christie,4.0,000649045X,9780006490456,eng,352,3908,67
+16322,The A.B.C. Murders (Hercule Poirot  #13),Agatha Christie,4.0,1579126243,9781579126247,eng,252,63488,2163
+16325,Partners in Crime (Tommy and Tuppence #2),Agatha Christie,3.8,0007111509,9780007111503,eng,347,9506,473
+16326,Death in the Clouds (Hercule Poirot  #12),Agatha Christie,3.8,000711933X,9780007119332,eng,333,21123,773
+16328,The Murder of Roger Ackroyd (Hercule Poirot  #4),Agatha Christie,4.2,1579126278,9781579126278,eng,288,93453,4962
+16331,Murder at the Vicarage (Miss Marple #1),Agatha Christie,4.0,1579126251,9781579126254,eng,288,113459,1976
+16332,Third Girl (Hercule Poirot  #38),Agatha Christie,3.6,0007121105,9780007121106,eng,365,13705,528
+16333,At Bertram's Hotel (Miss Marple  #11),Agatha Christie,3.7,0002310015,9780002310017,eng,223,16913,647
+16335,The Mystery of the Blue Train (Hercule Poirot  #6),Agatha Christie,3.8,1579126952,9781579126957,eng,317,21431,933
+16336,The Unexpected Guest: A Play In Two Acts,Agatha Christie,3.8,0573014671,9780573014673,eng,100,2771,165
+16338,Why Didn't They Ask Evans?,Agatha Christie,3.8,0753165716,9780753165713,eng,328,12,0
+16339,The Sittaford Mystery,Agatha Christie,3.7,0007136846,9780007136841,eng,400,8329,488
+16340,After the Funeral,Agatha Christie,3.9,0002310198,9780002310192,eng,251,47,4
+16341,The Moving Finger (Miss Marple #4),Agatha Christie,3.8,0007120842,9780007120840,eng,299,18561,973
+16342,Cat Among the Pigeons (Hercule Poirot  #34),Agatha Christie,3.8,0425205967,9780425205969,eng,352,20134,674
+16343,The Mysterious Affair at Styles (Hercule Poirot  #1),Agatha Christie,4.0,0646418432,9780646418438,eng,121,180757,3440
+16344,Dumb Witness (Hercule Poirot  #16),Agatha Christie,3.8,0007120796,9780007120796,eng,411,13973,634
+16349,Hercule Poirot's Christmas (Hercule Poirot  #20),Agatha Christie,3.9,0007120699,9780007120697,eng,335,23113,1211
+16356,The Mysterious Mr. Quin (Harley Quin  #1),Agatha Christie,3.7,0007154844,9780007154845,eng,396,7514,348
+16360,Murder in Mesopotamia (Hercule Poirot  #14),Agatha Christie,3.9,0007113803,9780007113804,eng,264,25692,874
+16361,The Secret of Chimneys (Superintendent Battle  #1),Agatha Christie,3.9,0007122586,9780007122585,eng,400,11110,526
+16362,The Mysterious Affair at Styles,Agatha Christie,4.0,0553350048,9780553350043,eng,196,78,16
+16363,Appointment with Death (Hercule Poirot  #19),Agatha Christie,3.9,0007119356,9780007119356,eng,303,24859,890
+16364,Murder on the Orient Express (Hercule Poirot  #10),Agatha Christie,4.2,1579126235,9781579126230,eng,266,1475,238
+16366,Endless Night,Agatha Christie,3.8,0007151675,9780007151677,eng,303,12740,1159
+16368,The Regatta Mystery and Other Stories (Hercule Poirot  #21),Agatha Christie,4.0,0425100413,9780425100417,eng,214,5701,154
+16369,Death on the Nile (Hercule Poirot  #17),Agatha Christie,4.1,1579126898,9781579126896,eng,351,629,85
+16371,Mrs. McGinty's Dead (Hercule Poirot  #30),Agatha Christie,3.8,0007121008,9780007121007,eng,328,525,62
+16372,The Mirror Crack'd from Side to Side (Miss Marple  #9),Agatha Christie,3.9,0007120982,9780007120987,eng,351,23249,708
+16422,Poirot Investigates,Agatha Christie,4.0,0425174727,9780425174722,eng,245,651,82
+16424,Peril at End House (Hercule Poirot  #8),Agatha Christie,3.9,0007119305,9780007119301,eng,287,25055,1098
+16426,Poirot's Early Cases,Agatha Christie,3.9,000231312X,9780002313124,en-GB,256,85,7
+16427,Dead Man's Folly (Hercule Poirot  #33),Agatha Christie,3.8,0007121075,9780007121076,eng,288,553,62
+16428,Hercule Poirot's Casebook (Hercule Poirot  #42),Agatha Christie,4.3,0399150218,9780399150210,eng,861,1852,47
+16464,Poirot: The Complete Ariadne Oliver  Vol. 2,Agatha Christie,4.2,0007190689,9780007190683,en-US,727,83,4
+22159,Ten Little Indians,Agatha Christie,4.2,0671801511,9780671801519,eng,173,40,7
+31300,A Caribbean Mystery (Miss Marple  #10),Agatha Christie,3.8,0451199928,9780451199928,eng,224,17398,681
+31301,Miss Marple's Final Cases (Miss Marple #14),Agatha Christie,3.8,0002315963,9780002315968,eng,160,4006,149
+31302,Five Complete Miss Marple Novels: The Mirror Crack'd / A Caribbean Mystery / Nemesis / What Mrs. McGillicuddy Saw! / The Body in the Library,Agatha Christie,4.4,0517035804,9780517035801,eng,650,117,6
+31303,At Bertram's Hotel,Agatha Christie,3.7,0451199936,9780451199935,eng,224,234,14
+31304,Nemesis (Miss Marple #12),Agatha Christie,3.8,0451200187,9780451200181,eng,224,17937,703
+31306,Murder at the Vicarage,Agatha Christie,4.0,0451201159,9780451201157,eng,256,451,50
+31307,Miss Marple Omnibus Vol. 3 (Murder at the Vicarage / Nemesis / Sleeping Murder / At Bertram's Hotel),Agatha Christie,4.3,0006499619,9780006499619,eng,688,130,4
+31308,A Murder Is Announced (Miss Marple  #5),Agatha Christie,4.0,0007120966,9780007120963,eng,382,680,87
+31309,The Thirteen Problems (Miss Marple  #2),Agatha Christie,3.9,0007120869,9780007120864,eng,315,12840,578
+31318,4:50 from Paddington / A Pocket Full of Rye (BBC Presents: Two Miss Marple Dramas),Agatha Christie,4.0,0553525638,9780553525632,eng,3,32,2
+31319,They Do It With Mirrors (Miss Marple #6),Agatha Christie,3.8,0007120877,9780007120871,eng,284,415,46
+31322,Three Classic Mysteries Starring Miss Marple: A Murder is Announced /The Body in the Library / Murder With Mirrors,Agatha Christie,4.2,0396074510,9780396074519,eng,628,119,6
+33400,Das Haus an der Düne,Agatha Christie,3.9,3596506808,9783596506804,ger,222,56,3
+37562,The Listerdale Mystery,Agatha Christie,3.6,0007154887,9780007154883,eng,317,178,32
+37563,Mörderblumen,Agatha Christie,3.7,3502509131,9783502509134,ger,158,7,0
+37574,The Mirror Crack'd,Agatha Christie,3.9,0553350153,9780553350159,eng,212,62,10
+37575,Dead Man's Mirror,Agatha Christie,3.8,0553350749,9780553350746,eng,233,30,1
+37582,Miss Marple Meets Murder: The Mirror Crack'd / A Pocket Full of Rye / At Bertram's Hotel / The Moving Finger,Agatha Christie,4.2,2731800097,9780800327101,eng,661,172,9
+39954,Dame Agatha Abroad: Murder on the Orient Express / They Came to Bagdad / Murder in Mesopotamia,Agatha Christie,4.0,0739460870,9780739460870,eng,568,43,6

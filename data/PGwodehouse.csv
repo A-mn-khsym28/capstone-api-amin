@@ -1,0 +1,30 @@
+bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,ratings_count,text_reviews_count
+12550,Stiff Upper Lip  Jeeves (Jeeves  #13),P.G. Wodehouse,4.3,184159105X,9781841591056,eng,211,6720,296
+16374,The Most of P.G. Wodehouse,P.G. Wodehouse,4.5,0743203585,9780743203586,eng,701,1845,103
+16376,Full Moon (Blandings Castle  #7),P.G. Wodehouse,4.2,1585678368,9781585678365,eng,272,1769,124
+16377,How Right You Are  Jeeves (Jeeves  #12),P.G. Wodehouse,4.2,0743203593,9780743203593,eng,206,2690,148
+16379,Life With Jeeves (Jeeves  #6  2  & 4),P.G. Wodehouse,4.4,0140059024,9780140059021,eng,557,3143,140
+16384,Spring Fever,P.G. Wodehouse,4.1,158567575X,9781585675753,eng,276,468,28
+16385,Lord Emsworth Acts for the Best,P.G. Wodehouse,4.1,0141185740,9780141185743,eng,182,187,11
+16387,Carry on  Jeeves (Jeeves  #3),P.G. Wodehouse,4.3,1585673927,9781585673926,eng,273,14989,725
+16388,Lord Emsworth and Others (Blandings Castle  #5.5),P.G. Wodehouse,4.2,1585672777,9781585672776,eng,268,1057,71
+16390,The Mating Season (Jeeves  #9),P.G. Wodehouse,4.3,1585672319,9781585672318,eng,272,4394,266
+16392,Thank You  Jeeves (Jeeves  #5),P.G. Wodehouse,4.2,1585674346,9781585674343,eng,263,5681,306
+16394,Much Obliged  Jeeves,P.G. Wodehouse,4.2,1585675261,9781585675265,eng,208,612,55
+16396,The Inimitable Jeeves (Jeeves  #2),P.G. Wodehouse,4.2,0140284125,9780140284126,eng,240,7430,317
+16400,Money in the Bank,P.G. Wodehouse,4.2,1585676578,9781585676576,eng,290,308,24
+16401,The Luck of the Bodkins,P.G. Wodehouse,4.1,1585673366,9781585673360,eng,358,1238,76
+18016,Mulliner Nights,P.G. Wodehouse,4.1,1400079616,9781400079612,eng,240,1144,76
+18025,Something Fresh (Blandings Castle  #1),P.G. Wodehouse,4.2,1585676586,9781585676583,eng,284,5041,365
+18035,Right Ho  Jeeves (Jeeves  #6),P.G. Wodehouse,4.3,140690483X,9781406904833,eng,224,8206,445
+18045,The World of Jeeves (Jeeves  #2-4),P.G. Wodehouse,4.5,0060972440,9780060972448,eng,654,2291,134
+18053,Meet Mr. Mulliner,P.G. Wodehouse,4.1,1585672750,9781585672752,eng,203,1162,78
+18055,Eggs  Beans And Crumpets,P.G. Wodehouse,4.1,1841591068,9781841591063,eng,224,874,60
+18057,A Damsel in Distress,P.G. Wodehouse,4.1,1406953210,9781406953213,eng,216,3385,337
+18061,Uncle Fred in the Springtime (Blandings Castle  #6),P.G. Wodehouse,4.2,1841591300,9781841591308,eng,288,1693,106
+18064,The World of Mr. Mulliner,P.G. Wodehouse,4.3,0140281703,9780140281705,eng,624,338,29
+18067,Cocktail Time,P.G. Wodehouse,4.1,1585675741,9781585675746,eng,304,644,50
+18073,Jeeves in the Offing (Jeeves  #12),P.G. Wodehouse,4.2,1841591165,9781841591162,eng,208,26,4
+18074,Jeeves and The Feudal Spirit (Jeeves  #11),P.G. Wodehouse,4.3,1841591017,9781841591018,eng,240,23,1
+18081,Joy in the Morning (Jeeves  #8),P.G. Wodehouse,4.4,1841591157,9781841591155,eng,296,37,0
+18089,The Mating Season (Jeeves  #9),P.G. Wodehouse,4.3,1841591076,9781841591070,eng,272,57,2
